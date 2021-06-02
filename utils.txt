@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Functions here for version 1
-123
-=======
 Functions here for version 2
->>>>>>> 459d2b537619472dcc530b474e049862832c3e24
+
